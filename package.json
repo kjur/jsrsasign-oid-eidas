@@ -1,0 +1,43 @@
+{
+    "name": "jsrsasign-oid-eidas",
+    "version": "0.9.1",
+    "description": "jsrsasign add-on for eIDAS and QC identifier definitions",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kjur/jsrsasign-oid-eidas.git"
+    },
+    "keywords": [
+        "jsrsasign",
+        "objectidentifier",
+        "oid",
+        "eu",
+        "eidas"
+    ],
+    "author": "Kenji Urushima",
+    "homepage": "https://github.com/kjur/jsrsasign-oid-eidas/",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kjur/jsrsasign-oid-eidas/issues"
+    },
+    "dependencies": {
+        "jsrsasign": ">=10.5.2"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "funding": "https://github.com/kjur/jsrsasign#donations",
+    "badges": {
+        "list": [
+            "githubsponsors",
+            "crypto"
+        ],
+        "config": {
+            "githubSponsorsUsername": "kjur",
+            "cryptoURL": "https://github.com/kjur/jsrsasign#cryptocurrency"
+        }
+    }
+}
