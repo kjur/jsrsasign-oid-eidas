@@ -13,6 +13,17 @@ var oids = {
     "qcpLegalQSCD":		"0.4.0.194112.1.3",	// QCP-l-qscd:CP for EU QC to legal persons wQSCD
     "qcpWeb":			"0.4.0.194112.1.4",	// QCP-w:CP for EU qualified website authentication certs
 
+    // ETSI EN 319 412-1 Certificate Profiles; Part1
+    "id-etsi-certprofile":		"0.4.0.194121",		// id-cert-profile
+    "id-etsi-certprofile":		"0.4.0.194121.1",	// id-etsi-qcs-semantics-identifiers
+    "qcsSemanticsIdNatural":		"0.4.0.194121.1.1",
+    "qcsSemanticsIdLegal":		"0.4.0.194121.1.2",
+    "qcsSemanticsIdeIDASNatural":	"0.4.0.194121.1.3",
+    "qcsSemanticsIdeIDASLegal":		"0.4.0.194121.1.4",
+    "id-etsi-mod":			"0.4.0.194121.0",
+    "id-etsi-mod-validityAssuredV1":	"0.4.0.194121.0.1.0",
+    "id-etsi-ext-valassured-ST-certs":	"0.4.0.194121.2.1",
+
     // ETSI TS 101 862 QC profile
     "id-etsi-qcProfile":	"0.4.0.1862",
     "id-etsi-qcProfile-qcs":	"0.4.0.1862.1",
